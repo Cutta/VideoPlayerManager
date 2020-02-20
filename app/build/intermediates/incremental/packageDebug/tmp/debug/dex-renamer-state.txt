@@ -1,0 +1,4 @@
+#Thu Feb 20 16:55:18 EET 2020
+base.0=/Users/cuneytcarikci/Desktop/PREVIEW/VideoPlayerManager/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
